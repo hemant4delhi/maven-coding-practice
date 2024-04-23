@@ -1,0 +1,17 @@
+{
+   "name":"Hemant",
+   "employee_id":"001",
+   "Account":"1000001",
+   "address":[
+      {
+         "house":"D401",
+         "City":"Noida",
+         "state":"UP"
+      },
+      {
+         "house":"Kamalpur",
+         "City":"Madhubani",
+         "state":"Bihar"
+      }
+   ]
+}
